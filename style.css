@@ -1,12 +1,13 @@
 /* Fonts */
 @font-face {
     font-family: 'Yellix';
-    src: url(fonts/Yellix-Regular.otf) format('otf');
+    src: url(fonts/Yellix-Regular.ttf);
     font-weight: 400;
   }
   @font-face {
     font-family: 'Yellix';
-    src: url(fonts/Yellix-Bold.otf) format('otf');
+    src: url(fonts/Yellix-SemiBold.ttf);
+    font-weight: 600;
   }
 
 /* Color styles */
